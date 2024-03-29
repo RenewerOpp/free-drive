@@ -1,0 +1,8 @@
+project-directory/
+¦
++-- backend/
+¦   +-- server.js
+¦   +-- data.js
+¦
++-- frontend/
+    +-- index.html
